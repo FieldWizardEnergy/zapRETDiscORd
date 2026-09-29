@@ -1,0 +1,2 @@
+domain.example.abc
+# FieldWizardEnergy/zapRETDiscORd 3be61c6317f2
